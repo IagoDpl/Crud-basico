@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "notebook",
+      "price": 5555.89
+    },
+    {
+      "id": 3,
+      "name": "geladeira",
+      "price": 2555.89
+    },
+    {
+      "name": "Redmi note 12s",
+      "price": "1200",
+      "id": 4
+    },
+    {
+      "name": "te",
+      "price": "12",
+      "id": 5
+    }
+  ]
+}
